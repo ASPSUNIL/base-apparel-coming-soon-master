@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(/images/bg-pattern-desktop.svg);
+}
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+}
+
+.text{
+    margin: 3rem 3rem;
+    padding: 109px 109px;
+    text-align: left;
+    width: 25vw;
+    
+}
+.text img{
+    padding: 60px 0 60px 0;
+}
+
+.text h1{
+    font-size: 4rem;
+    
+}
+
+.text h1 span{
+    color:hsl(0, 36%, 70%);
+}
+
+.image{
+    margin-left: 3rem ;
+    padding-left: 109px ;
+}
